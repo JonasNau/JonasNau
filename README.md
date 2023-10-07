@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @JonasNau
 - 👀 I’m interested in web development and application development to make your life a little bit more fun and easier
-- 🌱 I’m currently learning the more advanced features of JSON to bulit a quiz-application for my school with three other students in Germany.
 - 💞️ I’m looking for someone who wants to get with me up to the next level.
-- 📫 How to reach me
